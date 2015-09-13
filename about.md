@@ -26,3 +26,8 @@ This shouldn't be too elaborate, but it's meant to be much more punctuated:
 - Today, I did XYZ
 - Today, I got a little better
 
+If you have any questions about my work or would like to hire or collaborate with me, feel free to contact me. 
+
+To your development and mine,
+
+###Nate###
