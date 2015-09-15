@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Tuesday Checkin: Gettin' Git and Project Scope"
+date:   2015-09-14 19:06:21
+categories: checkin, git, scope, development
+---
+
+##Main GTD for the Day##
+
+- Learn about issues, pull requests, forks, and other collarorative measures on GitHub.
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Got the project scope for the ECCK started
+- Identified some weekpoints for the ECCK project
+- Worked on the Xavier theme a bit. 
+
+Today was a lot of grunt work leading up to a massive project. There will be more over the next week. Measure twice, cut once, they say.
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio

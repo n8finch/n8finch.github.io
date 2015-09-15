@@ -1,25 +1,35 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-09-10 08:23:21
-categories: jekyll update
+title:  "Monday Checkin: Concat and minify using Grunt"
+date:   2015-09-14 19:06:21
+categories: checkin, grunt, development
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+##Main GTD for the Day##
 
-Jekyll also offers powerful support for code snippets:
+- Concat and minify GTS.com files on local server using Grunt.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Got a new contract for a web application and site build. Due in November
+- Read through several chapters of WordPress Professional Design and Development
+- Got the GTS.com site on a CDN, instantly speeding up the site.
+
+Here are the Grunt tasks I'm currently using for the GTS.com site:
+
+{% highlight javascript %}
+grunt.loadNpmTasks('grunt-contrib-concat');
+grunt.loadNpmTasks('grunt-contrib-uglify');
+grunt.loadNpmTasks('grunt-contrib-cssmin');
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
+===
 
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
