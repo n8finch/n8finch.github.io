@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Wednesday Checkin: Sketch, Scope, and Tests"
+date:   2015-09-16 19:46:21
+categories: checkin, sketch, scope, tests, development
+---
+
+##Main GTD for the Day##
+
+- Learn the basics (and a little more) of Sketch 3, enough to mockup a webpage/webapp.
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Currently writing out the tests for the ECCK CRM.
+- Scoping the ECCK app
+- Installing and testing payment system, translator and calendar on GTS site.
+- Meetings...
+
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
