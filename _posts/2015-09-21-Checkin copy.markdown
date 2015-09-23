@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Wednesday Checkin: Sketch, Scope, and Tests"
+title:  "Wednesday Checkin: Registration Form, Importing current content"
 date:   2015-09-21 17:46:21
-categories: checkin, sketch, scope, tests, development
+categories: checkin, registration, importing content, wordpress
 ---
 
 ##Main GTD for the Day##
