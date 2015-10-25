@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wednesday Checkin: Registration Form, Importing current content"
-date:   2015-09-21 17:46:21
+date:   2015-09-23 17:46:21
 categories: checkin, registration, importing content, wordpress
 ---
 
@@ -19,6 +19,9 @@ categories: checkin, registration, importing content, wordpress
 - Explored sql dump for importing to WP
 - Clarify registration process signup.
 
+###What Else Did I Accomplish?###
+
+- Chapters 1 and 2 of WordPress Web Application development
 
 ===
 
