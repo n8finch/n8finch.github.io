@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Monday Checkin: Imports, Customizations, and More."
+title:  "Monday Checkin: Imports, Customizations, and More"
 date:   2015-10-26 07:30:21
 categories: checkin, wordpress, development, 
 ---
@@ -24,14 +24,6 @@ categories: checkin, wordpress, development,
 - 
 - 
 - 
-
-<!-- Here are the Grunt tasks I'm currently using for the GTS.com site:
-
-{% highlight javascript %}
-grunt.loadNpmTasks('grunt-contrib-concat');
-grunt.loadNpmTasks('grunt-contrib-uglify');
-grunt.loadNpmTasks('grunt-contrib-cssmin');
-{% endhighlig ht %}-->
 
 ===
 
