@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Monday Checkin: Imports, Customizations, and More"
-date:   2015-10-26 07:30:21
+date:   2015-10-26 15:30:21
 categories: checkin, wordpress, development, 
 ---
 
@@ -11,19 +11,16 @@ categories: checkin, wordpress, development,
 
 ####Did I do this?####
 
-- ??
+- No, waiting on the final variation.
 
 ###What Else Did I Accomplish?###
 
-- Customize PDF
-- Try importing some members
-- Check into the image custom field on the user profile
+- Customize PDF, almost finished
 
 ###What did I learn or study today?###
 
-- 
-- 
-- 
+- I learned that I can be presented with some html/php code (the PDF code, in this case) and read through it enough to know what's going on.
+- I can write out a basic add_action and callback function from memory now. Woohoo!!! 
 
 ===
 

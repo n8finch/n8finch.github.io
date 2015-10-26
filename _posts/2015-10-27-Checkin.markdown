@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Tuesday Checkin: PDF Customizations, member import testing"
+date:   2015-10-27 07:30:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Test member importing
+
+####Did I do this?####
+
+- ??
+
+###What Else Did I Accomplish?###
+
+- Customize PDF (completed)
+- Look into VAT and how to do that best.
+
+###What did I learn or study today?###
+
+- 
+- 
+- 
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
