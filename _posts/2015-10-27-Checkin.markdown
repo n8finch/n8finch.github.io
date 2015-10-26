@@ -17,6 +17,7 @@ categories: checkin, wordpress, development, woocommerce, customization
 
 - Customize PDF (completed)
 - Look into VAT and how to do that best.
+- Move site to local, and get pantheon dev flow set up.
 
 ###What did I learn or study today?###
 
