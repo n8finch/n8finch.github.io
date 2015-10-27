@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tuesday Checkin: PDF Customizations, member import testing"
-date:   2015-10-27 17:30:21
+title:  "Wednesday Checkin: Member import testing, website catchup"
+date:   2015-10-28 07:30:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 
@@ -11,12 +11,13 @@ categories: checkin, wordpress, development, woocommerce, customization
 
 ####Did I do this?####
 
-- Nope... argh
+- ??
 
 ###What Else Did I Accomplish?###
 
-- Updated Groove staging, made changes to front page
-- Moved ECCK site to local, and get pantheon dev flow set up (75% done).
+- Make changes to the website things (colors, RSVP, slide titles)
+- Look into VAT and how to do that best.
+- Finish setting up pantheon dev flow (.gitignore files as well)
 
 ###What did I learn or study today?###
 
