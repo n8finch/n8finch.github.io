@@ -11,19 +11,20 @@ categories: checkin, wordpress, development, woocommerce, customization
 
 ####Did I do this?####
 
-- ??
+- Yes, but will need to use a different plugin (maybe WPAllImport User addon)
 
 ###What Else Did I Accomplish?###
 
 - Make changes to the website things (colors, RSVP, slide titles)
-- Look into VAT and how to do that best.
-- Finish setting up pantheon dev flow (.gitignore files as well)
+- Finished setting up pantheon dev flow (.gitignore files as well)
+- Variations and products up on WooCommerce
+- BitBucket Workflow
 
 ###What did I learn or study today?###
 
-- 
-- 
-- 
+- Learned a LOT about the Pantheon environment
+- Learned more about workflow today than in a while
+- Learned how to set up a repository in BitBucket (nice and private!)
 
 ===
 

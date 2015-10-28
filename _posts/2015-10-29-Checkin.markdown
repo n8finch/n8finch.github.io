@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Thursday Checkin: Member import testing, website catchup"
+date:   2015-10-29 08:30:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Member Query: Company Name, Logo, and URL
+
+####Did I do this?####
+
+- ??
+
+###What Else Did I Accomplish?###
+
+- Style the Gravity Form
+- Fix addresses to be single text line, not preformated
+- Try uploading members directly from MySQL (first export dummy member)
+
+###What did I learn or study today?###
+
+- 
+- 
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
