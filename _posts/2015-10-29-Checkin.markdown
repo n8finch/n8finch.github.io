@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "Thursday Checkin: Member import testing, website catchup"
+title:  "Thursday Checkin: PDF Customizatino, website catchup"
 date:   2015-10-29 08:30:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 
 ##Main GTD for the Day##
 
-- Member Query: Company Name, Logo, and URL
+- Debug PDF creator, able to query information
 
 ####Did I do this?####
 
-- ??
+- Yes!
 
 ###What Else Did I Accomplish?###
 
-- Style the Gravity Form
-- Fix addresses to be single text line, not preformated
-- Try uploading members directly from MySQL (first export dummy member)
+- Got caught up on Website stylings
+- fixed front page accordian
+- 
 
 ###What did I learn or study today?###
 
-- 
-- 
+- Learned how to isolate information from a global variable that was instatiated from a class.
+- Learned how to randomize a variable for looping.
 
 ===
 
