@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "Monday Checkin: Git remote and Database pushing, member import testing, more website catchup"
+date:   2015-11-02 08:30:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Git Remote and Database push capabilities up (SSH tunneling?). 
+
+####Did I do this?####
+
+- ??
+
+###What Else Did I Accomplish?###
+
+- Upload member data with plugins
+- Sizing chart for pictures ready
+- Changelog and documentation up to date
+- Video list for Liam
+- Style Gravity form and change headings to Lato
+- Fix front page (try ZZP shortcodes)
+
+###What did I learn or study today?###
+
+- 
+- 
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio

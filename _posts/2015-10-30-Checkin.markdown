@@ -11,19 +11,17 @@ categories: checkin, wordpress, development, woocommerce, customization
 
 ####Did I do this?####
 
-- ??
+- Nope...
 
 ###What Else Did I Accomplish?###
 
-- Style the Gravity Form
 - Fix addresses to be single text line, not preformated
-- Try uploading members directly from MySQL (first export dummy member)
-- Dummy data up
 - Get a bigger ad space happening
+- Installed EventOn RSVP, didn't test
 
 ###What did I learn or study today?###
 
-- 
+- I mostly got caught up in trying to debug the Calendar and front page. Argh.
 - 
 
 ===
