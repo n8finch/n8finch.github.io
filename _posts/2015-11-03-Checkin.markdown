@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tuesday Checkin: Member import testing, more website catchup"
-date:   2015-11-02 08:30:21
+date:   2015-11-03 07:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 
