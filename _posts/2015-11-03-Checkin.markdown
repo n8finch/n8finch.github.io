@@ -1,25 +1,29 @@
 ---
 layout: post
-title:  "Monday Checkin: Git remote and Database pushing, member import testing, more website catchup"
+title:  "Tuesday Checkin: Member import testing, more website catchup"
 date:   2015-11-02 08:30:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 
 ##Main GTD for the Day##
 
-- Git Remote and Database push capabilities up (SSH tunneling?). 
+- Uplaod test members to site. 
 
 ####Did I do this?####
 
-- Yes
+- ??
 
 ###What Else Did I Accomplish?###
 
-- Video list for Liam
+- Upload member data with plugins
+- Sizing chart for pictures ready
+- Changelog and documentation up to date
+- Style Gravity form and change headings to Lato
+- Fix front page (try ZZP shortcodes)
 
 ###What did I learn or study today?###
 
-- Learned how to use Migrate DB Pro
+- 
 - 
 
 ===
