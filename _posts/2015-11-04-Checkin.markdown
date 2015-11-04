@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Wednesday Checkin: Setting up a Workflow for Local and Dev Environments, Website catchup"
+date:   2015-11-04 07:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Set up flow for Local and Dev environments 
+
+####Did I do this?####
+
+- Yes! It's Pantheon's workflow, but I couldn't get it to work with Pantheon. Ha!
+
+###What Else Did I Accomplish?###
+
+- No need to worry about Code and Databases. I've got the flow down.
+- 
+
+###What did I learn or study today?###
+
+- Learning a lot about Git and commands.
+- Learning the flow of Code vs. Databases.
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
