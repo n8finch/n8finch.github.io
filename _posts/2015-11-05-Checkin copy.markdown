@@ -7,11 +7,11 @@ categories: checkin, wordpress, development, woocommerce, customization
 
 ##Main GTD for the Day##
 
-- Emport and then Import Members (get WPAllImport)
+- Export and then Import Members (get WPAllImport)
 
 ####Did I do this?####
 
-- ??
+- Yes!
 
 ###What Else Did I Accomplish?###
 

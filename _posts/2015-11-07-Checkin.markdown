@@ -1,0 +1,42 @@
+---
+layout: post
+title:  "Friday and Saturday Checkin: Meeting, website and backend revisions"
+date:   2015-11-04 07:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Get through all of the website and CRM changes I can.
+
+####Did I do this?####
+
+- Yes
+
+###What Else Did I Accomplish?###
+
+- Change the page setting from full width to side bar and change the pages to full width.
+- social icon logos for flickr and linkedin
+- add separator to the Advisory Board and Secretariat, reformat all of these. Also remove the email and fax numbers at the top of secretariat
+- footer credits changed.
+- #ddd for background
+- transparent background for the premium logos on the main page
+- Newsroom: remove padding on accordion, bold the article title, add || b/t the date and title
+- Change the accordion pluses to dark gray
+- make site inner flush with nav bar
+- Change body text to Roboto
+- added Names Phone numbers and email in theme/woocommerce/pdf/invoice.php
+- Add names, emails and phone numbers of persons in charge to PDF invoices
+- added email login plugin
+- created ECCK Member, ECCK Office and Sub-Admin user roles
+
+###What did I learn or study today?###
+
+- 
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
