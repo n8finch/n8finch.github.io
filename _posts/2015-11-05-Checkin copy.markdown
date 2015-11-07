@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Thursday Checkin: EventOn fix, Membership imports"
-date:   2015-11-04 07:00:21
+date:   2015-11-05 07:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 

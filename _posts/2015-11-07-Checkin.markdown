@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Friday and Saturday Checkin: Meeting, website and backend revisions"
-date:   2015-11-04 07:00:21
+date:   2015-11-07 17:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
 
