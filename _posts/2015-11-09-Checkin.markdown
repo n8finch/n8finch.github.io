@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Monday Checkin: Styling Gravity forms, debugging and adding code"
+date:   2015-11-09 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Styled the Gravity form.
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Added memberhsip benefits page
+- Styled the Gravity form: https://trello.com/c/upbeDkby
+- added Hyemi to the Persons in Charge list
+- fix pdf downloads, make sure Output to HTML is not checked
+- Got started on setting up taxes, need to figure out if Taxes can be automated from a total given the tax class.
+
+###What did I learn or study today?###
+
+- How to set up WC Taxes. There's a TON of info there.
+- not including "#" placeholders in menu items can screw up your javascript!
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
