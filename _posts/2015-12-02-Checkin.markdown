@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Tuesday Checkin: Debugging and adding Functions"
+date:   2015-12-02 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Debug Our Members Area
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Modified ECCK Office permissions to allow for order creation.
+- Fixed bug with Our Members shortcode, moved code to functionality plugin
+- Added email alert for Person in Charge when order is approved in Functionality plugin
+- Changed to "Receipt" on invoice when an order is completed. 
+
+###What did I learn or study today?###
+
+- how experimenting with code is AWESOME, and trying and hacking away at things is sometimes best:-).
+- I used the Koop Debug plugin for displaying what a variable holds. Works awesome. 
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio
