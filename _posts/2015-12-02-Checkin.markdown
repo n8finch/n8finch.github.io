@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tuesday Checkin: Debugging and adding Functions"
+title:  "Wednesday Checkin: Debugging and adding Functions"
 date:   2015-12-02 17:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
