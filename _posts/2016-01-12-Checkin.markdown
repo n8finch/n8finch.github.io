@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Tuesday Checkin: Update Core, make sure nothing's broken...
+title:  "Tuesday Checkin: Update Core, make sure nothing's broken"
 date:   2016-01-12 17:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---

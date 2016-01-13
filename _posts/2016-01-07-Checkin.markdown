@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Thursday Checkin: Working on the slider issue
+title:  "Thursday Checkin: Working on the slider issue"
 date:   2016-01-07 17:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
