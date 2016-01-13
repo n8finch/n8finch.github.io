@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Friday Checkin: PDF Invoice and Packing Slip updates"
+date:   2016-01-08 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Resolve slide and Metabox issue
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Finished metabox to Slides (see Master Functionality Plugin) and pushed to live.
+- changed some CSS per request on the body, widget titles and entry headers.
+- added and udpated single page add-on for EventOn
+
+###What did I learn or study today?###
+
+- How to add and use WP metaboxes
+- how to spot an overlay
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com

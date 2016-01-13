@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Monday Checkin: Messing with the CSV"
+date:   2015-12-14 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Fix the CSV issues
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Fixed CSV for RSVP events to include Company and Position. 
+
+###What did I learn or study today?###
+
+- A little about CSVs
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+
+
+[FPSportfolio]: http://finchproservices.com/portfolio

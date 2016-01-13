@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Tuesday Checkin: Update Core, make sure nothing's broken...
+date:   2016-01-12 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Update core and plugins with no issues.
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Fixed some css issues
+- updated WC my-account page on WC templates.
+- Updates to WP, WC, and plugins
+
+###What did I learn or study today?###
+
+- The importance of updating Core.
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com

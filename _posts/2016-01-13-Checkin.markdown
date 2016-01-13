@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Wednesday Checkin: PDF Invoice and Packing Slip updates"
+date:   2016-01-13 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Resolve all PDF issues
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Duplicated Invoice code to Packing Slip
+- Changed Packing Slip and Invoice Buttons on WooCommerce Backend
+- Now there's always an invoice available witht the invoice date, and the Payment date is represented for completed orders.
+
+###What did I learn or study today?###
+
+- Accessing arrays and object data.
+- Date formating in PHP
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com

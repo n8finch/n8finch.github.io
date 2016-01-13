@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Thursday Checkin: Working on the slider issue
+date:   2016-01-07 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Fix the slider link issue
+
+####Did I do this?####
+
+-No...
+
+###What Else Did I Accomplish?###
+
+- Added metabox to Slides (see Master Functionality Plugin), need to add functionality still for slider hyperlink.
+- hid Total and Search Customers on the Order page
+
+###What did I learn or study today?###
+
+- About how the php and javascript for the sliders work.
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com
