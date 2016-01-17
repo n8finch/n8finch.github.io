@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Friday Checkin: PDF Invoice and Packing Slip updates"
+title:  "Resolved slide and Metabox issue"
 date:   2016-01-08 17:00:21
 categories: checkin, wordpress, development, woocommerce, customization
 ---
