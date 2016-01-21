@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Thursday Checkin: Database updates for ECCK"
+date:   2016-01-21 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Finish database updates from ECCK
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Fixed subscription form on GTS site
+
+###What did I learn or study today?###
+
+
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com

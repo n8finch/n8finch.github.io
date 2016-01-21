@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Wednesday Checkin: Worked on my Bootstrap WordPress Theme"
+date:   2016-01-20 17:00:21
+categories: checkin, wordpress, development, woocommerce, customization
+---
+
+##Main GTD for the Day##
+
+- Get masonry working on homepage
+
+####Did I do this?####
+
+- Yes!
+
+###What Else Did I Accomplish?###
+
+- Got the post.html page laid out too.
+- Got the search toggling down
+
+###What did I learn or study today?###
+
+- Toggling with jQuery
+- masonry seems to have issues with pictures... gotta get that figured out.
+
+===
+
+You can find my portfolio [here][FPSportfolio].
+Read my updates [here][n8finch].
+
+[FPSportfolio]: http://finchproservices.com/portfolio
+[n8finch]: http://n8finch.com
