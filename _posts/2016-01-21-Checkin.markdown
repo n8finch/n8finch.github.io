@@ -16,9 +16,11 @@ categories: checkin, wordpress, development, woocommerce, customization
 ###What Else Did I Accomplish?###
 
 - Fixed subscription form on GTS site
+- Updated Logins via SQL queries
 
 ###What did I learn or study today?###
 
+- How to do some SQL queries in phpMyAdmin
 
 
 ===
